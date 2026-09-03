@@ -90,3 +90,8 @@ src/
     └── resources/
         └── application.properties
 ```
+
+# 🙌 Thank You
+
+**Thank you for visiting this project!**
+I hope you found it useful and informative. 😊
